@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+    <header creationtoolversion="1.0.0" datatype="winres" segtype="sentence"
+            adminlang="en-us" srclang="en-en" o-tmf="abc"
+            creationtool="XYZTool" >
+    </header>
+    <body>
+		<tu tuid='navigation.sub.about'>
+			<tuv xml:lang="en">
+			</tuv>
+		</tu>
+		<tu tuid='navigation.sub.contact'>
+			<tuv xml:lang="en">
+			</tuv>
+		</tu>
+		<tu tuid='navigation.sub.help'>
+			<tuv xml:lang="en">
+			</tuv>
+		</tu>
+	</body>
+</tmx>

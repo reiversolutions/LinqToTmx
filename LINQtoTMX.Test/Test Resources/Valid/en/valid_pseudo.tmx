@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+    <header creationtoolversion="1.0.0" datatype="winres" segtype="sentence"
+            adminlang="en-us" srclang="de-de" o-tmf="abc"
+            creationtool="XYZTool" >
+    </header>
+    <body>
+    <tu tuid='navigation.sub.about'>
+        <tuv xml:lang="de"><seg>[!! àьöù† !!]</seg></tuv>
+    </tu>
+    <tu tuid='navigation.sub.contact'>
+        <tuv xml:lang="de"><seg>[!! ¢öñ†à¢† !!]</seg></tuv>
+    </tu>
+    <tu tuid='navigation.sub.help'>
+        <tuv xml:lang="de"><seg>[!! तël¶ !!]</seg></tuv>
+    </tu>
+</body>
+</tmx>

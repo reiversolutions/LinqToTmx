@@ -1,0 +1,21 @@
+    <header creationtoolversion="1.0.0" datatype="winres" segtype="sentence"
+            adminlang="en-us" srclang="en-en" o-tmf="abc"
+            creationtool="XYZTool" >
+    </header>
+    <body>
+		<tu tuid='navigation.sub.about'>
+			<tuv xml:lang="en">
+				<seg>About</seg>
+			</tuv>
+		</tu>
+		<tu tuid='navigation.sub.contact'>
+			<tuv xml:lang="en">
+				<seg>Contact</seg>
+			</tuv>
+		</tu>
+		<tu tuid='navigation.sub.help'>
+			<tuv xml:lang="en">
+				<seg>Help</seg>
+			</tuv>
+		</tu>
+	</body>
