@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoTMX", "LINQtoTMX\LINQtoTMX.csproj", "{CF53CA8F-59B1-4E9B-8BE3-0207FE961A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQtoTMX.Test", "LINQtoTMX.Test\LINQtoTMX.Test.csproj", "{4D6C46AD-81D3-491F-AE22-8329AE56EDC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EBE0E96B-F316-41B2-BFC7-2A943E5E6045}"
+	ProjectSection(SolutionItems) = preProject
+		LINQtoTMX.vsmdi = LINQtoTMX.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = LINQtoTMX.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF53CA8F-59B1-4E9B-8BE3-0207FE961A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF53CA8F-59B1-4E9B-8BE3-0207FE961A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF53CA8F-59B1-4E9B-8BE3-0207FE961A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF53CA8F-59B1-4E9B-8BE3-0207FE961A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6C46AD-81D3-491F-AE22-8329AE56EDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6C46AD-81D3-491F-AE22-8329AE56EDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6C46AD-81D3-491F-AE22-8329AE56EDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6C46AD-81D3-491F-AE22-8329AE56EDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
