@@ -6,5 +6,11 @@ TMX files can be used to keep translation data in a format known by many transla
 companies and without strong ties to the .net framework. This means that a single 
 repository of tmx files could be used by a project with both .net and open source 
 components.
-	e.g. .Net WPF application with Java Web Services
 
+>e.g. .Net WPF application with Java Web Services
+
+## Nuget download
+
+For a simple download, grab it from nuget with the following;
+
+    Install-Package LinqToTmx
